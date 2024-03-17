@@ -1,0 +1,9 @@
+[package]
+name = "todos"
+version = "0.0.1"
+edition = "2021"
+author = "João Victor <joaovicdsantos@gmail.com>"
+description = "Your definitive cli todo list manager"
+repository = "https://github.com/joaovicdsantos/todos"
+
+[dependencies]
